@@ -1,4 +1,4 @@
-FROM normaliz/normaliz:v3.5.4
+FROM normaliz/normaliz:v3.6.0
 
 ENTRYPOINT []
 
